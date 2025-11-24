@@ -1,1 +1,3 @@
-new line added, is a change.
+new line added, variation
+More change
+Conflict
